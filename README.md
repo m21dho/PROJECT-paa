@@ -1,4 +1,4 @@
-Team Based Project IKN Design Case Perancangan Analisis dan Algoritma <br>
+Team Based Project Perancangan Analisis dan Algoritma IKN Design Case <br>
 
 Dosen Pengampu: Tekad Matulatan, S.Sos., S.Kom., M.Inf.Tech <br>
 
