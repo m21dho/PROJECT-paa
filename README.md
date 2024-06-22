@@ -8,3 +8,5 @@ Kelompok: 8 <br>
 2201020122  Zeldiyan Arafat <br>
 2201020019  Arinda Amalia Putri <br>
 2201020104  Muhammad Ridho <br>
+2201020092  Halta Putra Ash Sidiq <br>
+
