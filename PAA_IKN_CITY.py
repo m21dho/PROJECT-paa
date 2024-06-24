@@ -24,7 +24,7 @@ MIN_DISTANCE = 5
 
 # Konstanta ukuran bangunan
 BIG_BUILDING = 'big_building'
-MEDIUM_BUILDING = 'biruuu'
+MEDIUM_BUILDING = 'orange'
 SMALL_BUILDING = 'abu'
 HOUSE = 'house'
 TREE = 'tree'
@@ -41,7 +41,7 @@ BUILDING_SIZES = {
 
 BUILDING_IMAGES = {
     BIG_BUILDING: 'big_building.png',
-    MEDIUM_BUILDING: 'biruuu.jpg',
+    MEDIUM_BUILDING: 'orange.png',
     SMALL_BUILDING: 'merahmerah.jpg',
     HOUSE: 'house.png',
     TREE: 'tree.png',
